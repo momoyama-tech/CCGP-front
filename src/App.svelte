@@ -1,5 +1,5 @@
 <script>
-	const message = 'Hello!';
+	const message = 'pokemon';
 </script>
 
 <main>
